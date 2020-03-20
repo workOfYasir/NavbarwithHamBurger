@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabBSCS6thC20032020DrawerLayoutFirebase</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
